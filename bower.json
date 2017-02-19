@@ -1,0 +1,14 @@
+{
+  "name": "autoprofik.ru",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/nonhex/autoprofik",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
